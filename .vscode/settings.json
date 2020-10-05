@@ -1,3 +1,4 @@
 {
-  "python.pythonPath": "C:\\Users\\dfjun\\Workspace\\somin_study\\venv\\Scripts\\python.exe"
+  "python.pythonPath": "C:\\Users\\dfjun\\Workspace\\somin_study\\venv\\Scripts\\python.exe",
+  "python.formatting.provider": "black"
 }
