@@ -1,0 +1,2 @@
+XSS
+<script>alert('protection')</script>
